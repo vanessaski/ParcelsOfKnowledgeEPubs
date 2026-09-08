@@ -1,6 +1,6 @@
 <div align="center">
 
-![Parcels of Knowledge Logo](https://githubusercontent.com)
+![Parcels of Knowledge Logo](POK Logo.png)
 
 </div>
 
