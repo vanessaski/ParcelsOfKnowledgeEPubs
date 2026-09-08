@@ -1,4 +1,8 @@
-![Parcels of Knowlege ePubs](https://github.com/vanessaski/ParcelsOfKnowledgeEPubs/blob/d753c8e17f1f1d4038a8280aedca6965bfc86df3/POK%20Logo.png))
+<div align="center">
+
+![Parcels of Knowlege ePubs](https://github.com/vanessaski/ParcelsOfKnowledgeEPubs/blob/d753c8e17f1f1d4038a8280aedca6965bfc86df3/POK%20Logo.png)
+
+</div>
 
 Welcome to Parcels of Knowledge ePubs!
 This is just a repository for ePub versions of the documents released 
