@@ -1,6 +1,6 @@
 <div align="center">
 
-![Parcels of Knowledge Logo]([POK Logo.png](https://github.com/vanessaski/ParcelsOfKnowledgeEPubs/blob/5b607f0c527a2f63a712eae7616c66fb6127331f/POK%20Logo.png))
+![Parcels of Knowledge Logo](https://github.com/vanessaski/ParcelsOfKnowledgeEPubs/blob/5b607f0c527a2f63a712eae7616c66fb6127331f/POK%20Logo.png)
 
 </div>
 
