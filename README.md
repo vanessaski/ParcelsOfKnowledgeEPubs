@@ -1,7 +1,5 @@
 <div align="center">
-
-![Parcels of Knowledge Logo](POK%20Logo.png)
-
+  <img src="POK%20Logo.png" alt="Parcels of Knowledge Logo">
 </div>
 
 Welcome to Parcels of Knowledge ePubs!
