@@ -20,3 +20,5 @@ by Jamie Gregory in conjunction with the Parcels of Knowledge Podcast.
 
 [Download Parcels of Knowledge: The Last Loop - Episode 3](files/Parcels%20Of%20Knowledge_%20The%20Last%20Loop%20-%20Episode%203.epub)
 
+[Download Parcels of Knowledge: The Nixie - Episode 1](files/Parcels%20of%20Knowledge_%20The%20Nixie%20-%20Episode%201_%20Backstamps%20and%20the%20Nixie%20-%20Jamie%20Gregory.epub)
+
