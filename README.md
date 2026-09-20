@@ -22,3 +22,10 @@ by Jamie Gregory in conjunction with the Parcels of Knowledge Podcast.
 
 [Download Parcels of Knowledge: The Nixie - Episode 1](files/Parcels%20of%20Knowledge_%20The%20Nixie%20-%20Episode%201_%20Backstamps%20and%20the%20Nixie%20-%20Jamie%20Gregory.epub)
 
+[Download NALC Branch 1779’s 2026
+National Candidate Forum: What the Candidates Said
+](files/NALC%20Branch%201779's%202026%20National%20Candidate%20Forum_%20What%20the%20Candidates%20Said%20-%20Jamie%20Gregory.epub)
+
+[Download NALC Branch 1779’s 2026 
+National Candidate Forum: Commentary and Analysis
+](files/NALC%20Branch%201779's%202026%20National%20Candidate%20Forum_%20Commentary%20and%20Analysis%20-%20Jamie%20Gregory.epub)
