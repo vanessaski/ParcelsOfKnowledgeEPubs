@@ -29,3 +29,5 @@ National Candidate Forum: What the Candidates Said
 [Download NALC Branch 1779’s 2026 
 National Candidate Forum: Commentary and Analysis
 ](files/NALC%20Branch%201779's%202026%20National%20Candidate%20Forum_%20Commentary%20and%20Analysis%20-%20Jamie%20Gregory.epub)
+
+[Download POK: The Backstamp - Vincent Sombrotto, Union Democracy, and the Road to the NALC Presidency](files/POK_%20The%20Backstamp%20-%20Vincent%20Sombrotto%2C%20Union%20Democracy%2C%20and%20the%20Road%20to%20the%20NALC%20Presidency%20-%20Jamie%20Gregory.epub)
